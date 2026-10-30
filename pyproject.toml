@@ -1,0 +1,15 @@
+[project]
+name = "comfy-sys-monitor"
+version = "0.5.0"
+description = "System information utilities"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/xxx12/comfy-sys-monitor"
+
+[tool.comfy]
+PublisherId = "xxx12"
+DisplayName = "System Monitor"
+requires-comfyui = ">=0.3.0"
